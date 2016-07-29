@@ -1,0 +1,22 @@
+{
+  "name": "js-samples",
+  "version": "1.0.0",
+  "description": "This is just an example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarnakptc/javascriptsamples.git"
+  },
+  "keywords": [
+    "Chumma"
+  ],
+  "author": "Swarnalatha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swarnakptc/javascriptsamples/issues"
+  },
+  "homepage": "https://github.com/swarnakptc/javascriptsamples#readme"
+}
